@@ -24,10 +24,12 @@ I've been doing it for less than a year, but with a strong sense of responsibili
 
 ## My projects 
 * 🥐 [CafeGuide](https://coffee-ride.vercel.app)
-* 🤲 [Bookstore](https://valeriiakuz.github.io/Library/#/)
 * ✅ [ToDoList](https://valeriiakuz.github.io/ToDoList/)
 * 💸 [  Currency conversion website
   ](https://valeriiakuz.github.io/Currency-rates/#/)
+*  [Nonograms] (https://rolling-scopes-school.github.io/valeriiakuz-JSFE2023Q4/nonograms/)
+*  [Hangman](https://rolling-scopes-school.github.io/valeriiakuz-JSFE2023Q4/)
+
 
 and a project from Yandex course
 🍔 [BurgerProject](https://valeriiakuz.github.io/BurgerProject/)
