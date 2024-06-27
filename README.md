@@ -4,7 +4,6 @@
 Behind me, I have 8 years of medical education and several years of experience as a pediatric nephrologist 🤯, but now I am on the path of learning programming 🤓<br>
 I've been doing it for less than a year, but with a strong sense of responsibility 🫡 <br>
 💪 I finished the Yandex Frontend.React course and then I developed several small projects of my own 🤘. I dedicate 6-8 hours every day to learning and working on my pet project. <br>
-🌱 Now I am in RS School(@rolling-scopes-school) and realy hope to finish it and be one of the top 100 students 
 
 ## Skills
 
@@ -17,10 +16,12 @@ I've been doing it for less than a year, but with a strong sense of responsibili
 * Redux, Redux Saga, Redux Toolkit, RTK Query
 * Axios
 * Formik
+* Yup
 * Cypress, Jest
 * WebSocket
 * DND
 * Green Sock
+
 
 ## My projects 
 * 🥐 [CafeGuide](https://coffee-ride.vercel.app)
@@ -30,6 +31,8 @@ I've been doing it for less than a year, but with a strong sense of responsibili
 * 🤯 [Nonograms](https://rolling-scopes-school.github.io/valeriiakuz-JSFE2023Q4/nonograms/)
 * 💀 [Hangman](https://rolling-scopes-school.github.io/valeriiakuz-JSFE2023Q4/)
 
+## RSS team project
+* 🪐 [Galactic store](https://sloths-galactic-store.netlify.app/ )
 
 and a project from Yandex course
 🍔 [BurgerProject](https://valeriiakuz.github.io/BurgerProject/)
